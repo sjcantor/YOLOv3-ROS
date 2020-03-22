@@ -1,1 +1,7 @@
-# ignore stuff
+# Get rid of vscode junk
+.vscode/*
+!.vscode/settings.json
+!.vscode/tasks.json
+!.vscode/launch.json
+!.vscode/extensions.json
+*.code-workspace
