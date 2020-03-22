@@ -5,6 +5,7 @@ Cheers,
 Sam
 
 <br>
+  
 ### Install Steps:  
 - Navigate to home directory using command `cd ~`  
 - Create a new directory "bin" using `mkdir bin`  
